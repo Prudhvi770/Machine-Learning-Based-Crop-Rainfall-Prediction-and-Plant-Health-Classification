@@ -1231,7 +1231,7 @@ Model Tuning         Model Tuning
 
 ---
 
-# 📊 Model Comparison
+#  Model Comparison
 
 The project generates comparison tables for both supervised learning tasks.
 
@@ -1430,7 +1430,7 @@ Visualization / Recommendation
 ```
 
 
-# 📚 Main Machine Learning Concepts
+#  Main Machine Learning Concepts
 
 This project demonstrates practical implementation of:
 
